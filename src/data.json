@@ -1,0 +1,188 @@
+[
+  {
+    "category": "Starter",
+    "items": [
+      {
+        "name": "Bruschetta",
+        "price": 5.99,
+        "ingredients": [
+          "Pane",
+          "Pomodoro",
+          "Aglio",
+          "Basilico",
+          "Olio d'oliva"
+        ],
+        "allergens": ["glutine"]
+      },
+      {
+        "name": "Caprese",
+        "price": 7.99,
+        "ingredients": ["Mozzarella", "Pomodoro", "Basilico", "Olio d'oliva"],
+        "allergens": ["latte e derivati"]
+      },
+      {
+        "name": "Carpaccio di manzo",
+        "price": 9.99,
+        "ingredients": [
+          "Carne di manzo",
+          "Rucola",
+          "Parmigiano",
+          "Limone",
+          "Olio d'oliva"
+        ],
+        "allergens": ["latte e derivati"]
+      }
+    ]
+  },
+  {
+    "category": "First Courses",
+    "items": [
+      {
+        "name": "Spaghetti Carbonara",
+        "price": 10.99,
+        "ingredients": [
+          "Spaghetti",
+          "Uova",
+          "Pancetta",
+          "Pecorino",
+          "Pepe nero"
+        ],
+        "allergens": ["uova", "latte e derivati"]
+      },
+      {
+        "name": "Risotto ai Funghi",
+        "price": 12.99,
+        "ingredients": [
+          "Riso",
+          "Funghi",
+          "Brodo vegetale",
+          "Parmigiano",
+          "Cipolla"
+        ],
+        "allergens": ["glutine"]
+      },
+      {
+        "name": "Lasagna",
+        "price": 14.99,
+        "ingredients": [
+          "Lasagne",
+          "Ragù",
+          "Besciamella",
+          "Parmigiano",
+          "Mozzarella"
+        ],
+        "allergens": ["glutine", "latte e derivati"]
+      }
+    ]
+  },
+  {
+    "category": "Second Courses",
+    "items": [
+      {
+        "name": "Filetto di Salmone",
+        "price": 15.99,
+        "ingredients": ["Salmone", "Limone", "Erbe aromatiche", "Olio d'oliva"],
+        "allergens": ["fish"]
+      },
+      {
+        "name": "Bistecca ai ferri",
+        "price": 18.99,
+        "ingredients": [
+          "Bistecca",
+          "Sale",
+          "Pepe",
+          "Rosmarino",
+          "Olio d'oliva"
+        ],
+        "allergens": []
+      },
+      {
+        "name": "Pollo alla Cacciatora",
+        "price": 16.99,
+        "ingredients": [
+          "Pollo",
+          "Pomodoro",
+          "Peperoni",
+          "Sedano",
+          "Cipolla",
+          "Vino bianco"
+        ],
+        "allergens": ["sedano"]
+      }
+    ]
+  },
+  {
+    "category": "Desserts",
+    "items": [
+      {
+        "name": "Tiramisù",
+        "price": 6.99,
+        "ingredients": ["Savoiardi", "Mascarpone", "Caffè", "Uova", "Cacao"],
+        "allergens": ["uova", "glutine", "latte e derivati"]
+      },
+      {
+        "name": "Panna Cotta",
+        "price": 5.99,
+        "ingredients": ["Panna", "Zucchero", "Vaniglia", "Gelatina"],
+        "allergens": ["latte e derivati"]
+      },
+      {
+        "name": "Chocolate Mousse",
+        "price": 8.99,
+        "ingredients": ["Cioccolato", "Panna", "Uova", "Zucchero"],
+        "allergens": ["uova", "latte e derivati"]
+      }
+    ]
+  },
+  {
+    "category": "Wines",
+    "items": [
+      {
+        "name": "Chianti",
+        "price": 25.99,
+        "ingredients": ["Uva", "Lieviti"],
+        "allergens": ["solfiti"]
+      },
+      {
+        "name": "Prosecco",
+        "price": 20.99,
+        "ingredients": ["Uva", "Lieviti"],
+        "allergens": ["solfiti"]
+      },
+      {
+        "name": "Merlot",
+        "price": 22.99,
+        "ingredients": ["Uva", "Lieviti"],
+        "allergens": ["solfiti"]
+      }
+    ]
+  },
+  {
+    "category": "Drinks",
+    "items": [
+      {
+        "name": "Acqua Minerale",
+        "price": 1.99,
+        "ingredients": ["Acqua"],
+        "allergens": []
+      },
+      {
+        "name": "Coca Cola",
+        "price": 2.49,
+        "ingredients": ["Acqua", "Zucchero", "Anidride carbonica", "Caffeina"],
+        "allergens": []
+      },
+      {
+        "name": "Soda Arancia",
+        "price": 2.29,
+        "ingredients": [
+          "Acqua",
+          "Zucchero",
+          "Anidride carbonica",
+          "Aroma di arancia"
+        ],
+        "allergens": []
+      }
+    ]
+  }
+]
